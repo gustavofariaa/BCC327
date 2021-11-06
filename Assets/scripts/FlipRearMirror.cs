@@ -10,9 +10,4 @@ public class FlipRearMirror : MonoBehaviour
     {
         mainCamera.projectionMatrix = mainCamera.projectionMatrix * Matrix4x4.Scale(new Vector3 (-1, 1, 1));
     }
-
-    void Update()
-    {
-        
-    }
 }
