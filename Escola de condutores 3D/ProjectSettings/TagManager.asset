@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Lose
+  - Wheel Front Left
+  - Wheel Back Left
+  - Wheel Front Right
+  - Wheel Back Right
+  - First Step Front
+  - First Step Back
+  - Second Step Front
+  - Second Step Back
   layers:
   - Default
   - TransparentFX
